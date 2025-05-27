@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter notebook metadata
+*.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Model files
+*.pkl
+
+# Ignore datasets folder
+datasets/
