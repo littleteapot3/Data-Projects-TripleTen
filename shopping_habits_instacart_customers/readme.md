@@ -10,7 +10,6 @@ This project explores customer behavior on the Instacart grocery delivery platfo
 
 - [Project Description](#project-description)
 - [Dataset](#dataset)
-- [Installation & Setup](#installation--setup)
 - [How to Use](#how-to-use)
 - [Features](#features)
 - [Insights & Visualizations](#insights--visualizations)
