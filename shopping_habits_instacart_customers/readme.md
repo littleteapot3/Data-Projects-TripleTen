@@ -4,7 +4,6 @@
 Welcome to the Instacart Exploratory Data Analysis (EDA) project!  
 This project explores customer behavior on the Instacart grocery delivery platform by analyzing shopping patterns using real-world anonymized data.
 
----
 
 ## 📌 Table of Contents
 
@@ -15,7 +14,7 @@ This project explores customer behavior on the Instacart grocery delivery platfo
 - [Insights & Visualizations](#insights--visualizations)
 - [Credits](#credits)
 
----
+
 
 ## 📖 Project Description
 
@@ -28,7 +27,7 @@ This project was developed as part of a data analysis sprint. It focuses on clea
 
 This analysis enables us to gain a deeper understanding of user preferences and shopping habits—valuable insights for product recommendations, inventory planning, and targeted marketing.
 
----
+
 
 ## 🗃️ Dataset
 
@@ -42,7 +41,6 @@ The project uses a modified version of the 2017 Instacart Kaggle dataset, which 
 
 **Note**: This dataset was intentionally modified to include missing and duplicate values for the purpose of practicing data cleaning techniques.
 
----
 
 ## ▶️ How to Use
 
@@ -53,7 +51,6 @@ The project uses a modified version of the 2017 Instacart Kaggle dataset, which 
 
 The notebook follows a clear flow: data loading → cleaning → exploration → insight generation.
 
----
 
 ## ✨ Features
 
@@ -66,7 +63,7 @@ The notebook follows a clear flow: data loading → cleaning → exploration →
   - First items added to cart
 - Clear and modular code with explanatory markdown throughout
 
----
+
 
 ## 📊 Insights & Visualizations
 
@@ -87,7 +84,7 @@ The notebook follows a clear flow: data loading → cleaning → exploration →
 - **Top Products**: Bar charts display the frequency of popular and reordered items.
 - **Cart Behavior**: Stacked bar chart reveals which items are first added to carts.
 
----
+
 
 ## 🤝 Credits
 
